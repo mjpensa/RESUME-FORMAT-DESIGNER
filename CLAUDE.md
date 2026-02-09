@@ -1,4 +1,4 @@
-# CLAUDE.md — RESUME-FORMAT-RESEARCHER
+# CLAUDE.md — RESUME-FORMAT-DESIGNER
 
 ## Environment Overview
 
@@ -23,7 +23,7 @@ git config --get gpg.format
 
 All git operations route through a **local proxy** — never directly to `github.com`.
 
-- **Remote URL:** `http://local_proxy@127.0.0.1:62100/git/mjpensa/RESUME-FORMAT-RESEARCHER`
+- **Remote URL:** `http://local_proxy@127.0.0.1:62100/git/mjpensa/RESUME-FORMAT-DESIGNER`
 - The proxy intercepts push, fetch, and pull.
 - Direct `github.com` URLs will **not** work.
 
